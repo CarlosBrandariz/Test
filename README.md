@@ -1,2 +1,2 @@
 # Test
-My first repository
+My first test repository, nothing inside
